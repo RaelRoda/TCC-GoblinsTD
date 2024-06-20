@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_mouseOver",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_mouseOver",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

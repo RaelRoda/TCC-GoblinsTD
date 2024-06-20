@@ -1,0 +1,7 @@
+Tirar pagamento dos goblins - FEITO
+
+Implementar Vida para perder - FEITO
+
+e Numero de Rounds para ganhar - FEITO
+
+implementar os botões B e S na esquerda da tela, tirando o tutorial da direita - 
